@@ -2782,6 +2782,7 @@ html {
     justify-content: center;
     align-items: center;
     margin-top: -68px;
+    height: fit-content;
     padding: 2px;
     display: flex;
   }
@@ -8124,6 +8125,7 @@ html {
     padding-bottom: 60px;
     display: flex;
   }
+  
   
   .container-5 {
     align-self: auto;
