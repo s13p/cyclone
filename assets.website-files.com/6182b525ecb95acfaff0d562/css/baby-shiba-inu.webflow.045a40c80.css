@@ -2358,7 +2358,8 @@ html {
     min-height: 75vh;
     -webkit-text-fill-color: inherit;
     background-color: #13161c;
-    background-image: url("./../../hbg.jpg");
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(255,215,0,1) 100%);
     background-position: 50%;
     background-size: cover;
     background-clip: border-box;

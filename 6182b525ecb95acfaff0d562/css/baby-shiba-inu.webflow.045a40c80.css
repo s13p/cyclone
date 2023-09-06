@@ -2350,16 +2350,16 @@ html {
   .section._500px-full-image {
     height: 450px;
     background-image: url("https://assets.website-files.com/6182b525ecb95acfaff0d562/6182b525ecb95ae0ccf0d618_fabio-alves-tN3CDxTkx0Q-unsplash%20(1).jpg");
-    background-position: 50%;
+    background-position: 100% 50%;
     background-size: cover;
   }
   
   .section.home-hero {
     min-height: 75vh;
     -webkit-text-fill-color: inherit;
-    background-color: #553701;
-    background-image: url("./../../hbg.jpg");
-    background-position: 50%;
+    background: rgb(0,0,0);
+    background-image: url(./../../03ec04d9-e74e-40a8-8c5e-5847eb145bf3.png);
+    background-position:  100% 50%;
     background-size: cover;
     background-clip: border-box;
     overflow: visible;
@@ -2560,7 +2560,7 @@ html {
   }
   
   .button.ondark {
-    background-image: url("./../../hbg.jpg"); 
+    background-image: url("../hbg.jpg"); 
      background-position: 0 0;
     background-size: cover;
     color: white !important;
