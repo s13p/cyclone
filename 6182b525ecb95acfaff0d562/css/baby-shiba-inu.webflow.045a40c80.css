@@ -1430,7 +1430,7 @@ html {
   
   @media screen and (max-width: 767px) {
     .w-nav-brand {
-      padding-left: 10px;
+      padding-right: 70%;
     }
   }
   
@@ -1987,7 +1987,7 @@ html {
     }
   
     .w-nav-brand {
-      padding-left: 10px;
+      padding-left: -100px;
     }
   }
   
@@ -8180,6 +8180,7 @@ html {
     justify-content: center;
     margin-left: 0;
     margin-right: auto;
+    margin-top: 25px;
     padding-left: 0;
     display: block;
   }
@@ -8807,6 +8808,7 @@ html {
     bottom: 0%;
     left: 0%;
     right: 0%;
+  
   }
   
   .div-block-44 {
