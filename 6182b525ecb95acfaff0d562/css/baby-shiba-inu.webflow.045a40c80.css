@@ -7947,9 +7947,9 @@ html {
   }
   
   .image-4 {
-    max-width: 120%;
+    max-width: 70%;
     float: right;
-    margin-left: -261px;
+    margin-left: -61px;
     position: relative;
     top: 13px;
     left: 4px;
@@ -7958,7 +7958,7 @@ html {
   
   .div-block-2 {
     width: auto;
-    margin-left: 0;
+    margin-right: 0;
     padding-left: 53px;
   }
   
